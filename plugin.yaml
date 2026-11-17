@@ -33,14 +33,14 @@ description: |
 platforms:
   - selector:
       os: linux
-    uri: https://github.com/ambient-innovation/trivy-plugin-gitlab-codequality/releases/download/v1.18.0/plugin.tar.gz
+    uri: https://github.com/beyonder-deutschland/trivy-plugin-gitlab-codequality/releases/download/v1.18.0/plugin.tar.gz
     bin: trivy-gitlab-codequality-linux
   - selector:
       os: darwin
-    uri: https://github.com/ambient-innovation/trivy-plugin-gitlab-codequality/releases/download/v1.18.0/plugin.tar.gz
+    uri: https://github.com/beyonder-deutschland/trivy-plugin-gitlab-codequality/releases/download/v1.18.0/plugin.tar.gz
     bin: trivy-gitlab-codequality-darwin
   - selector:
       os: windows
-    uri: https://github.com/ambient-innovation/trivy-plugin-gitlab-codequality/releases/download/v1.18.0/plugin.tar.gz
+    uri: https://github.com/beyonder-deutschland/trivy-plugin-gitlab-codequality/releases/download/v1.18.0/plugin.tar.gz
     bin: trivy-gitlab-codequality-windows.exe
 
